@@ -1,3 +1,5 @@
-Another file feature2.txt added in the testset-1 branch.
+This line was modified in testset-2 branch.
 
 This file was modified locally with VC studio.
+
+This line was added in testset-2 branch.
