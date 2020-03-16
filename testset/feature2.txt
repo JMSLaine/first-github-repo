@@ -1,1 +1,3 @@
 Another file feature2.txt added in the testset-1 branch.
+
+This file was modified locally with VC studio.
